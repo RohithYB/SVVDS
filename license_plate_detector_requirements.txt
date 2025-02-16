@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+pytesseract>=0.3.8
+imutils>=0.5.4
+Pillow>=8.0.0
+scikit-image>=0.18.0
+tensorflow>=2.4.0
+keras>=2.4.0
